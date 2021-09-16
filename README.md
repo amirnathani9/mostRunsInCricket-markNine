@@ -10,9 +10,6 @@ This app shows the most runs scored by the cricketer in all format
 
 - ReactJS
 
-## Link of the webApp
-
-[https://o34s3.csb.app/](https://o34s3.csb.app/)
 
 Don't forget to leave a ⭐ if you found this useful.
 
